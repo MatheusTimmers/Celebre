@@ -1,2 +1,2 @@
 # Celebre
-Site desenvolvido para a Empresa Celebre
+Site desenvolvido para a empresa Celebre
